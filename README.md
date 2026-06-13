@@ -1,4 +1,8 @@
 # 🧠 TicTacToeAI
+<p align="center">
+  <img width="562" height="672" alt="image" src="https://github.com/user-attachments/assets/d752f186-6351-460f-9ca3-a420de61cbe0" />
+</p>
+
 ## Q-Learning: Tabular Reinforcement Learning in Java
 
 This project implements a Q-Learning agent that learns to master the game of **Tic-Tac-Toe** via self-play.
