@@ -9,17 +9,6 @@ This project implements a Q-Learning agent that learns to master the game of **T
 
 Built entirely in standard Java (including a Swing-based GUI), this project demonstrates how classical tabular reinforcement learning can solve discrete state-space environments without relying on external machine learning libraries.
 
-## 📋 Table of Contents
-Project Purpose
-Reinforcement Learning Fundamentals
-The Bellman Equation
-Hyperparameters Explained
-Implementation in Tic-Tac-Toe
-State Space & The Q-Table
-Training Architecture (Self-Play)
-Interpreting the GUI & Q-Matrix
-Getting Started (How to Run)
-
 ## 🎯 Project Purpose
 The primary goal of this project is educational: to bridge the gap between theoretical reinforcement learning mathematics and practical software engineering.
 
